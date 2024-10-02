@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # audit-management
 
 ## Project setup
@@ -22,3 +23,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
